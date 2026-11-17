@@ -33,3 +33,4 @@ pipeline {
         }
     }
 }
+// Testing automatic webhook trigger
