@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                echo 'Git Checkout successful - webhook test'
+                echo 'Git Checkout successful - webhook Test'
             }
         }
 
